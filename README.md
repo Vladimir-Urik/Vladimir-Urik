@@ -6,7 +6,6 @@
 </p>
 <h3>Statistics:</h3>
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <h3>Social sites:</h3>
