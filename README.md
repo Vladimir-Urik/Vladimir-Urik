@@ -4,7 +4,7 @@
  🌱 I’m currently learning PhP<br>
  🤔 I’m looking for help with Vax<br>
 </p>
-<h3>Statistics</h3>
+<h3>Statistics:</h3>
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
