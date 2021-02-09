@@ -1,5 +1,4 @@
 name: Waka Readme
-
 on:
   schedule:
     - cron: '* * * * *'
