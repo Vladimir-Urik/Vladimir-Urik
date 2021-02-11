@@ -18,7 +18,7 @@
  > 
 > 🔑 39 Private Repositories  
  > 
-I'm an Early 🐤
+</strong>I'm an Early 🐤</strong>
 
 ```text
 🌞 Morning    97 commits     ███████░░░░░░░░░░░░░░░░░░   29.85% 
