@@ -6,7 +6,7 @@
 </p>
 <h3>Statistics:</h3>
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+🐱 My Github Data
 
 > 🏆 23 Contributions in the Year 2021
  > 
