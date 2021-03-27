@@ -74,6 +74,8 @@ CSS                      2 repos             ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimir-urik)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>Social sites:</h3>
 <p><a href="https://twitter.com/GGGEDR" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.reddit.com/user/GGGEDR" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/reddit-%23FE6262.svg?&style=for-the-badge&logo=reddit&logoColor=white" /></a>
 </p>
