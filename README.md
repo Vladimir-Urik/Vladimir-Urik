@@ -1,8 +1,8 @@
 <h1> 👋 Hi, my name is Vladimír Urík</h1>
 <p>
- 🔭 I’m currently working on Thumbie and Vax<br>
- 🌱 I’m currently learning PhP<br>
- 🤔 I’m looking for help with Vax<br>
+ 🔭 I’m currently working on PvPCraft.cz<br>
+ 🌱 I’m currently learning Laravel 💙<br>
+ 🤔 I’m looking for help with PvPCraft 💝<br>
 </p>
 <h3>Statistics:</h3>
 <!--START_SECTION:waka-->
