@@ -6,7 +6,7 @@
 </p>
 <h3>Statistics:</h3>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
@@ -51,14 +51,14 @@ Sunday       99 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Bratislava
 
 💬 Programming Languages: 
-Java                     44 hrs 21 mins      ██████████████████████░░░   88.69% 
-YAML                     1 hr 20 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
-XML                      1 hr 20 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.69% 
-JavaScript               1 hr 18 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6% 
-Groovy                   32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
+Java                     43 hrs 27 mins      ██████████████████████░░░   88.99% 
+JavaScript               1 hr 18 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66% 
+XML                      1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36% 
+YAML                     1 hr 7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29% 
+Groovy                   36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23%
 
 🔥 Editors: 
-IntelliJ                 50 hrs              █████████████████████████   100.0%
+IntelliJ                 48 hrs 49 mins      █████████████████████████   100.0%
 
 ```
 
@@ -75,7 +75,7 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2021
+ Last Updated on 24/07/2021
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimir-urik)](https://github.com/anuraghazra/github-readme-stats)
