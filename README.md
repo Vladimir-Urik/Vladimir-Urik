@@ -6,13 +6,13 @@
 </p>
 <h3>Statistics:</h3>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 736 Contributions in the Year 2021
+> 🏆 738 Contributions in the Year 2021
  > 
 > 📦 348.2 kB Used in Github's Storage 
  > 
@@ -38,9 +38,9 @@ Monday       48 commits     ██░░░░░░░░░░░░░░░�
 Tuesday      77 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.74% 
 Wednesday    44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
 Thursday     44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
-Friday       70 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
+Friday       71 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
 Saturday     53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.21% 
-Sunday       98 commits     █████░░░░░░░░░░░░░░░░░░░░   22.58%
+Sunday       97 commits     █████░░░░░░░░░░░░░░░░░░░░   22.35%
 
 ```
 
@@ -75,7 +75,7 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2021
+ Last Updated on 31/07/2021
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimir-urik)](https://github.com/anuraghazra/github-readme-stats)
