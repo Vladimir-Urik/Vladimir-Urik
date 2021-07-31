@@ -2,7 +2,7 @@
 <p>
  🔭 I’m currently working on PvPCraft.cz<br>
  🌱 I’m currently learning Laravel 💙<br>
- 🤔 I’m looking for help with PvPCraft & LabyMod💝<br>
+ 🤔 I’m looking for help with LabyMod💝<br>
 </p>
 <h3>Statistics:</h3>
 <!--START_SECTION:waka-->
