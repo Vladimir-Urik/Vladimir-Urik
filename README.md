@@ -1,6 +1,6 @@
 <h1> 👋 Hi, my name is Vladimír Urík</h1>
 <p>
- 🔭 I’m currently working on PvPCraft.cz<br>
+ 🔭 I’m currently working on ???<br>
  🌱 I’m currently learning Laravel 💙<br>
  🤔 I’m looking for help with LabyMod💝<br>
 </p>
@@ -16,7 +16,7 @@
  > 
 > 📦 348.4 kB Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 🚫 Opted to Hire
  > 
 > 📜 67 Public Repositories 
  > 
