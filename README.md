@@ -1,8 +1,8 @@
 <h1> 👋 Hi, my name is Vladimír Urík</h1>
 <p>
- 🔭 I’m currently working on ???<br>
- 🌱 I’m currently learning Laravel 💙<br>
- 🤔 I’m looking for help with LabyMod💝<br>
+ 🔭 I’m currently working on -<br>
+ 🌱 I’m currently learning -<br>
+ 🤔 I’m looking for help with -<br>
 </p>
 <h3>Statistics:</h3>
 <!--START_SECTION:waka-->
