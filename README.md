@@ -6,29 +6,27 @@
 </p>
 <h3>Statistics:</h3>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%2037%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 219 Contributions in the Year 2021
+> 🏆 218 Contributions in the Year 2021
  > 
-> 📦 349.9 kB Used in GitHub's Storage 
+> 📦 350.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 80 Public Repositories 
  > 
-> 🔑 91 Private Repositories  
+> 🔑 92 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    134 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.06% 
-🌆 Daytime    270 commits    █████████░░░░░░░░░░░░░░░░   38.41% 
+🌞 Morning    128 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.21% 
+🌆 Daytime    276 commits    █████████░░░░░░░░░░░░░░░░   39.26% 
 🌃 Evening    279 commits    ██████████░░░░░░░░░░░░░░░   39.69% 
 🌙 Night      20 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
 
@@ -41,8 +39,8 @@ Tuesday      109 commits    ████░░░░░░░░░░░░░�
 Wednesday    94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.37% 
 Thursday     92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.09% 
 Friday       53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.54% 
-Saturday     154 commits    █████░░░░░░░░░░░░░░░░░░░░   21.91% 
-Sunday       101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.37%
+Saturday     152 commits    █████░░░░░░░░░░░░░░░░░░░░   21.62% 
+Sunday       103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.65%
 
 ```
 
@@ -73,7 +71,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/12/2021
+ Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimir-urik)](https://github.com/anuraghazra/github-readme-stats)
