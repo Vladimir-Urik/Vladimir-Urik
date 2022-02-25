@@ -6,8 +6,6 @@
 </p>
 <h3>Statistics:</h3>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%2037%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
@@ -73,7 +71,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2022 06:21:38 UTC
+ Last Updated on 25/02/2022 00:54:50 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimir-urik)](https://github.com/anuraghazra/github-readme-stats)
