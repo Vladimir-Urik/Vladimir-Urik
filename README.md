@@ -6,7 +6,7 @@
 </p>
 <h3>Statistics:</h3>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -14,7 +14,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,266 Contributions in the Year 2022
+> 🏆 1,275 Contributions in the Year 2022
  > 
 > 📦 447.5 kB Used in GitHub's Storage 
  > 
@@ -22,49 +22,13 @@
  > 
 > 📜 107 Public Repositories 
  > 
-> 🔑 111 Private Repositories  
+> 🔑 112 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    129 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.37% 
-🌆 Daytime    276 commits    ██████████░░░░░░░░░░░░░░░   41.44% 
-🌃 Evening    237 commits    █████████░░░░░░░░░░░░░░░░   35.59% 
-🌙 Night      24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.6%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       125 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.77% 
-Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.11% 
-Wednesday    122 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.32% 
-Thursday     95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.26% 
-Friday       90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
-Saturday     86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.91% 
-Sunday       54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.11%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Bratislava
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Java** 
 
 ```text
-Java                     50 repos            ██████████████░░░░░░░░░░░   57.47% 
-TypeScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
+Java                     49 repos            ██████████████░░░░░░░░░░░   56.32% 
+TypeScript               12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
 Kotlin                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.05% 
 JavaScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
 Go                       3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
@@ -73,7 +37,7 @@ Go                       3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 06:21:49 UTC
+ Last Updated on 05/09/2022 01:34:46 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimir-urik)](https://github.com/anuraghazra/github-readme-stats)
