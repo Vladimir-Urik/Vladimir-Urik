@@ -6,7 +6,7 @@
 </p>
 <h3>Statistics:</h3>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -16,7 +16,7 @@
 
 > 🏆 1,275 Contributions in the Year 2022
  > 
-> 📦 447.5 kB Used in GitHub's Storage 
+> 📦 447.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -24,6 +24,42 @@
  > 
 > 🔑 112 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    129 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
+🌆 Daytime    276 commits    ██████████░░░░░░░░░░░░░░░   41.13% 
+🌃 Evening    242 commits    █████████░░░░░░░░░░░░░░░░   36.07% 
+🌙 Night      24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.58%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       125 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.63% 
+Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
+Wednesday    122 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Thursday     95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.16% 
+Friday       90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41% 
+Saturday     85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.67% 
+Sunday       60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.94%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Bratislava
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -37,7 +73,7 @@ Go                       3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2022 01:34:46 UTC
+ Last Updated on 05/09/2022 06:49:25 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimir-urik)](https://github.com/anuraghazra/github-readme-stats)
