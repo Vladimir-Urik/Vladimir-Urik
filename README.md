@@ -16,7 +16,7 @@
 
 > 🏆 1,496 Contributions in the Year 2022
  > 
-> 📦 449.7 kB Used in GitHub's Storage 
+> 📦 449.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -24,6 +24,42 @@
  > 
 > 🔑 111 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    160 commits    █████░░░░░░░░░░░░░░░░░░░░   20.46% 
+🌆 Daytime    306 commits    █████████░░░░░░░░░░░░░░░░   39.13% 
+🌃 Evening    288 commits    █████████░░░░░░░░░░░░░░░░   36.83% 
+🌙 Night      28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.58%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       180 commits    █████░░░░░░░░░░░░░░░░░░░░   23.02% 
+Tuesday      105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.43% 
+Wednesday    123 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
+Thursday     99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
+Friday       91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.64% 
+Saturday     87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.13% 
+Sunday       97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.4%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Bratislava
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -37,7 +73,7 @@ Go                       3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2022 01:26:30 UTC
+ Last Updated on 14/09/2022 06:56:31 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimir-urik)](https://github.com/anuraghazra/github-readme-stats)
