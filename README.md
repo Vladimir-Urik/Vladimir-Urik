@@ -16,7 +16,7 @@
 
 > 🏆 1,584 Contributions in the Year 2022
  > 
-> 📦 453.0 kB Used in GitHub's Storage 
+> 📦 453.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -63,17 +63,17 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     49 repos            ██████████████░░░░░░░░░░░   56.98% 
+Java                     48 repos            ██████████████░░░░░░░░░░░   55.81% 
 TypeScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.79% 
 Kotlin                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.14% 
-JavaScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.14% 
 Go                       3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49%
 
 ```
 
 
 
- Last Updated on 28/09/2022 07:03:39 UTC
+ Last Updated on 29/09/2022 01:30:59 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimir-urik)](https://github.com/anuraghazra/github-readme-stats)
