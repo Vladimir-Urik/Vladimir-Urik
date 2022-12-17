@@ -1,7 +1,7 @@
 <h1> 👋 Hi, my name is Vladimír Urík</h1>
 <p>
- 🔭 I’m currently working on -<br>
- 🌱 I’m currently learning -<br>
+ 🔭 I’m currently working on @Fleeb-s-Pizza, QPlay.CZ<br>
+ 🌱 I’m currently learning Rust<br>
  🤔 I’m looking for help with -<br>
 </p>
 <h3>Statistics:</h3>
