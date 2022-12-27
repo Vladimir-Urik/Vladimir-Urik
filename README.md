@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vladimir Urik</h1>
 <h3 align="center">A passionate fullstack developer from Slovakia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vladimir-urik" alt="vladimir-urik" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vladimir-urik&theme=onedark" alt="vladimir-urik" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gggedr" target="blank"><img src="https://img.shields.io/twitter/follow/gggedr?logo=twitter&style=for-the-badge" alt="gggedr" /></a> </p>
 
