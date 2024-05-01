@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Vue, NextJS, Laravel, Java, Spring Boot, MySQL, etc...**
 
-- 📫 How to reach me **gggedrvideos@gmail.com**
+- 📫 How to reach me **info@gggedr.lol**
 
 - ⚡ Programming is like sex **One mistake and you have to support it for the rest of your life.**
 
