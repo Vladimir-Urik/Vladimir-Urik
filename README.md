@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/gggedr" target="blank"><img src="https://img.shields.io/twitter/follow/gggedr?logo=twitter&style=for-the-badge" alt="gggedr" /></a> </p>
 
-- 🔭 Working on [Fleebs.GG](https://fleebs.gg)
-
 - 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 My portfolio [https://gggedr.lol/](https://gggedr.lol/)
