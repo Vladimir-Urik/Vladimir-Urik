@@ -24,8 +24,6 @@
 <a href="https://www.behance.net/gggedrurk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gggedrurk" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vladimir-urik&show_icons=true&theme=dark&locale=en&layout=compact" alt="vladimir-urik" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vladimir-urik&show_icons=true&theme=dark&locale=en" alt="vladimir-urik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vladimir-urik&theme=dark" alt="vladimir-urik" /></p>
